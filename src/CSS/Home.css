@@ -1,0 +1,36 @@
+.col-2 {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .col-2 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 0.5rem;
+  }
+  
+  .row .input-group {
+    margin-bottom: 1rem;
+  }
+  
+  .row .card {
+    width: 18rem;
+  }
+  
+  .product-image-list {
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  .product-title-list {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .product-description-list {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  .home-container {
+    background-color: rgb(252, 221, 226);
+  }

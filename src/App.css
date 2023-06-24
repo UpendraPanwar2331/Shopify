@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.header-area{
+  background-color:#B0DAFF;
+ }
+ .product-description-list {
+  max-height: 100px;
+  min-height: 100px;
+  height: 100px;
+  overflow: hidden;
+  white-space: break-spaces;
+  text-overflow: ellipsis;
+}
+.product-image-list {
+  max-height: 175px;
+  min-height: 150px;
+}
+.product-title-list {
+  max-height: 50px;
+  min-height: 50px;
+  height: 50px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.content-area{
+  background-color: #F6F1F1;
+}
