@@ -1,0 +1,32 @@
+.cart-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cart-item-image {
+    width: 10%;
+  }
+  
+  .cart-item-details {
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 10px;
+  }
+  
+  .cart-item h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .cart-item p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .cart-item button {
+    margin-top: 10px;
+  }
+  

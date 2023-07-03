@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mier book";
+  }
+  
+  .container1 {
+    height:fit-content;
+    width: 100%;
+    position: fixed;
+    background: #ffffff;
+  }
+  
+  .header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .left-side {
+    display: flex;
+    margin: 0 60px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+  }
+  
+  .search-icon {
+    color: #921414;
+    cursor: pointer;
+  }
+  
+  .input-search {
+    width: 400px;
+    height: 60px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    background-color: #f5f5f5;
+    color: #333333;
+    margin-left: 10px;
+  }
+  
+  .right-side {
+    display: flex;
+    align-items: center;
+  }
+  
+  .list {
+    display: flex;
+    gap: 70px;
+    margin-right: 50px;
+  }
+  
+  .list li {
+    list-style: none;
+  }
+  
+  .download {
+    border-right: 1px solid black;
+    padding: 0 10px;
+  }
+  
+  .supplier {
+    border-right: 1px solid black;
+    padding: 0 20px;
+  }
+  
+  .header2 {
+    height: 50px;
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  
+  .items {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+  }
+  
+  .items li {
+    cursor: pointer;
+    list-style: none;
+    font-weight: 500;
+    color: rgb(53, 53, 67);
+    font-style: normal;
+    font-size: 16px;
+    font-family: "Mier book";
+  }
+  
+  .items li:hover {
+   color: #a40e77;
+   font-weight:600
+  }
+ 
