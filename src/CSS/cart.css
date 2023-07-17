@@ -30,3 +30,52 @@
     margin-top: 10px;
   }
   
+.empty{
+    
+  padding-top: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emptyImage{
+  width: 190px;
+  height: 230px;
+}
+.yourcartEmpty{
+  color: rgb(53, 53, 67);
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: "Mier demi";
+  padding: 20px 0px;
+}
+
+.xtra{
+  color: rgb(97, 97, 115);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Mier book";
+  margin: 0px;
+  padding: 0px 16px 16px;
+}
+
+.start{
+  cursor: pointer;
+  font-style: normal;
+  text-align: center;
+  letter-spacing: 0.0015em;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  border-radius: 4px;
+  color: rgb(255, 255, 255);
+  background: center center rgb(159, 32, 137) !important;
+  border: none;
+  padding: 8px 12px;
+  width: 160px;
+  height: 40px;
+  
+}
