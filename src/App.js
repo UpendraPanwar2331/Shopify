@@ -4,7 +4,7 @@ import './App.css';
 import Header from "./Header";
 import Footer from "./Footer";
 import Home from "./Home";
-import Menubar from "./Menubar";
+
 import NotFound from "./NotFound";
 import ProductDetail from "./Component/ProductDetail";
 import Cart from "./Component/Cart";

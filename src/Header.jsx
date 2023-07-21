@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import {  useNavigate } from 'react-router-dom';
 import { CartContext } from './CartContext';
 import meeshoLogo from './Images/meeshoLogo.png'
 import './CSS/Header.css';

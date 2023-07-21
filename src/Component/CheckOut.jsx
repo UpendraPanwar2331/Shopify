@@ -15,7 +15,7 @@ const CheckOut = () => {
   const [open, setOpen] = useState(false);
   const [address, setAddress] = useState('');
   const cartContext = useContext(CartContext);
-  const { cart, clearCart } = cartContext;
+  const { clearCart } = cartContext;
 
   const navigate = useNavigate();
 

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import { ProductData } from '../data';
-import { Link, useNavigate, useParams } from 'react-router-dom';
+// import { ProductData } from '../data';
+import {  useNavigate, useParams } from 'react-router-dom';
 import { Rating } from '@mui/material';
 
 const HomeReplace = () => {
@@ -8,7 +8,7 @@ const HomeReplace = () => {
   const navigate = useNavigate();
   const temp = useParams();
   const { category } = temp;
-  const filteredProducts = ProductData.filter((product) => product.category === category);
+  // const filteredProducts = ProductData.filter((product) => product.category === category);
 
  
   const callApi = async (category) => {

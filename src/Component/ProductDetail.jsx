@@ -20,7 +20,7 @@ const ProductDetail = () => {
       .then((response) => response.json())
       .then((data) => setProduct((prevProduct) => ({ ...prevProduct, ...data })))
       .catch((error) => console.log(error));
-  }, []);
+  }, );
 
   const handleSizeChange = (event) => {
     setSelectedSize(event.target.value);

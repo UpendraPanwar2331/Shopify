@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+
 import './CSS/Home.css';
-import { Rating } from '@mui/material';
+
 import { useNavigate } from 'react-router-dom';
 import  main from './Images/main.png'
 import products from './Images/products.png'
@@ -9,7 +9,7 @@ import essential from './Images/essential.png'
 import homepic from './Images/homepic.png'
 import homepic3 from './Images/homepic3.png';
 import signup from './Images/signup.png';
-import {AiFillStar} from 'react-icons'
+
 
 const Home = () => {
   const [Products, setProducts] = useState([]);
