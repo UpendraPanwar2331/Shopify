@@ -7,21 +7,21 @@ export const CartProvider = ({ children }) => {
   const [login, setLogin] = useState(false);
   const [inputValue, setInputValue] = useState("");
   const [count, setCount] = useState(0);
+ 
 
   const addToCart = (product) => {
     setCart((prevCart) => [...prevCart, product]);
   };
 
-  const removeFromCart = (productId) => {
-    setCart((prevCart) => prevCart.filter((item) => item.id !== productId));
-  };
+ 
 
   const clearCart = () => {
-    setCart([]);
+    setCart([{}]);
   };
 
+
   return (
-    <CartContext.Provider value={{ cart,setCart, addToCart, removeFromCart, clearCart,login,setLogin,inputValue,setInputValue,count,setCount}}>
+    <CartContext.Provider value={{ cart,setCart, addToCart, clearCart,login,setLogin,inputValue,setInputValue,count,setCount,clearCart}}>
       {children}
     </CartContext.Provider>
   );

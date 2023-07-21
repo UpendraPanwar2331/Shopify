@@ -27,19 +27,26 @@ const ProductDetail = () => {
   };
 
   const handleAddToCart = () => {
+    if (!selectedSize) {
+      window.alert('Please select a size before adding to cart.');
+      return;
+    }
+  
     addToCart({ ...product, size: selectedSize });
     setAlert(true);
     setTimeout(() => {
-      setAlert(false)
-    }, 2000)
+      setAlert(false);
+    }, 2000);
     window.alert('Product is added to the cart');
-   
-  
-
     navigate('/');
   };
 
   const handleBuyNow = () => {
+    if (!selectedSize) {
+      window.alert('Please select a size before buying.');
+      return;
+    }
+  
     if (login) {
       navigate('/checkout');
     } else {
@@ -100,7 +107,7 @@ const ProductDetail = () => {
                 <h2 className='headings' style={{ fontSize: '30px', color: 'black' }}>
                   Select Size:
                 </h2>
-                <RadioGroup value={selectedSize} onChange={handleSizeChange} className='radio-group'>
+                <RadioGroup  value={selectedSize} onChange={handleSizeChange} className='radio-group'>
                   <FormControlLabel value='S' control={<Radio />} label='S' />
                   <FormControlLabel value='M' control={<Radio />} label='M' />
                   <FormControlLabel value='L' control={<Radio />} label='L' />
