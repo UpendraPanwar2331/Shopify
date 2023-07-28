@@ -1,93 +1,55 @@
-/* 
-.productdetailimage{
-   width: 30%;
-   margin-top: 214px;
-   margin-right: 100px;
-   margin-left: 150px;
-   border : 1px solid rgb(234, 234, 242);
-}
-.bothbuttons{
-    margin-left: 200px;
-    margin-top: 29px;
-}
-
-.buybutton{
-   
-    cursor: pointer;
-    font-style: normal;
-    text-align: center;
-    letter-spacing: 0.0015em;
-    font-size: 15px;
-    line-height: 20px;
-    border-radius: 4px;
-    color: rgb(255, 255, 255);
-    background: rgb(159, 32, 137);
-    border: none;
-    padding: 80px;
-}
-.cartbutton{
-    background-color: #ffffff !important;
-    border:1px solid  rgb(234, 234, 242);
-    color: rgb(159, 32, 137);
-   
-}
-.borderline{
-    height: 1px;
-    background-color: rgb(206, 206, 222);
-    border-radius: 2px;
-    width: 100%;
-    margin-top: 46px;
-    width: 40%;
-    margin-left: 103px;
-}
- */
-.imageofdetails{
+/* Default styles for all screen sizes */
+.imageofdetails {
     height: 50%;
     margin-top: 162px;
     margin-left: 149px;
     border: 1px solid lavender;
-   
+  }
   
-}
-.buttons{
-    margin-left: 149px;  
+  .buttons {
+    margin-left: 149px;
     margin-top: 10px;
-}
-.product-info{
+  }
+  
+  .product-info {
     color: rgb(97, 97, 115);
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
     font-family: "Mier book";
-    width:30% ;
+    width: 30%;
     margin-left: 35px;
     display: flex;
     flex-direction: column;
-}
-.titleorprice{
+  }
+  
+  .titleorprice {
     width: 543px;
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
     margin-bottom: 16px;
     padding: 20px 16px;
     border: 1px solid rgb(234, 234, 242);
-}
-.product-title{
+  }
+  
+  .product-title {
     font-size: 24px;
     margin-bottom: 10px;
-}
-.product-price{
+  }
+  
+  .product-price {
     font-weight: bold;
     margin-bottom: 10px;
     font-size: 20px;
     color: black;
-}
-.button1{
+  }
+  
+  .button1 {
     margin-right: 90px !important;
-}
-
-.detaildescription{
+  }
+  
+  .detaildescription {
     padding: 5px 10px;
     color: rgb(97, 97, 115);
     font-style: normal;
@@ -104,12 +66,11 @@
     padding: 20px 16px;
     border: 1px solid rgb(234, 234, 242) !important;
     width: 544px;
-}
-.rating2{
+  }
+  
+  .rating2 {
     display: inline-flex;
-    -webkit-box-pack: center;
     justify-content: center;
-    -webkit-box-align: center;
     align-items: center;
     border-radius: 16px;
     padding: 3px 13px;
@@ -117,8 +78,9 @@
     fill: rgb(255, 255, 255);
     margin-left: 0px;
     color: white;
-}
-.size-selection{
+  }
+  
+  .size-selection {
     color: rgb(97, 97, 115);
     font-style: normal;
     font-weight: 500;
@@ -126,7 +88,6 @@
     line-height: 20px;
     font-family: "Mier book";
     margin-top: 20px;
-    /* border: 1px solid black; */
     padding: 5px 10px;
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
@@ -134,4 +95,49 @@
     padding: 20px 16px;
     border: 1px solid rgb(234, 234, 242);
     width: 544px;
-}
+  }
+  
+  /* Responsive styles for mobiles and tablets */
+  @media (max-width: 768px) {
+    .imageofdetails {
+      height: auto;
+      max-width: 100%;
+      margin-top: 30px;
+      margin-left: 0;
+    }
+  
+    .buttons {
+      margin-left: 500px;
+      margin-top: 300px;
+      margin-right: 200px;
+    }
+  
+    .product-info {
+      width: 100%;
+      margin-left: 0;
+    }
+  
+    .titleorprice,
+    .detaildescription,
+    .size-selection {
+      width: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  

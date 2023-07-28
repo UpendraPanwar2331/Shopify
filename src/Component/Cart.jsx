@@ -1,10 +1,12 @@
 import React,{useContext} from 'react'
 import { CartContext } from '../CartContext'
-import { Link } from 'react-router-dom';
+
 
 import { useNavigate } from 'react-router-dom';
 import emptyCart from '../Images/emptyCart.png'
 import '../CSS/cart.css'
+import { Button } from '@mui/material';
+import { Payment } from '@mui/icons-material';
 
 const Cart = () => {
     const { cart,login } = useContext(CartContext);
@@ -23,18 +25,28 @@ const Cart = () => {
     const navigateToHome = () => {
       navigate('/');
     };
+    const handelcontinue = () => {
+      if(login){
+        navigate('/checkout')
+      }else{
+        window.alert("You are not login. Login First")
+        navigate('/login')
+      }
+    }
   
   return (
     <>
+    <div className='carthai'>
 
 
 {cart.length > 1 ? (
 <div style={{border:"1px solid black",marginRight:"547px"}}>
   <h2>Cart</h2>
   {cart.map((item) => (
-    <div key={item.id} >
+    <div className='cartbox' key={item.id} >
       <img src={item.image} alt="imag" style={{width:"10%",marginTop:"50px"}} />
       <div >
+        <h4>₹-{item.price}</h4>
         <h3>{item.title}</h3>
         <p>{item.description}</p>
       </div>
@@ -42,18 +54,27 @@ const Cart = () => {
   ))}
 <div>
 <span>Price Details</span>
-<div> <h3>Total Product Price: ${calculateTotal(cart)}</h3></div>
-<div> <h3>Order Total: ${calculateTotal(cart)}</h3></div>
+<div> <h3>Total Product Price: ₹{calculateTotal(cart)}</h3></div>
+<div> <h3>Order Total: ₹{calculateTotal(cart)}</h3></div>
 </div>
 Clicking on ‘Continue’ will not deduct any money
 <div >
 
 
 
-<Link to={login ? "/checkout" : "/login"} >
+
   
-        <button style={{ marginTop: "10px" }}>Continue</button>
-      </Link>
+      
+        <Button
+             onClick={handelcontinue}
+              variant='contained'
+              startIcon={<Payment />}
+              style={{ backgroundColor: 'rgb(159, 32, 137)', marginLeft: '39px' }}
+            >
+              Continue
+            </Button>
+       
+    
 </div>
 </div>
 ) : (
@@ -66,7 +87,7 @@ Clicking on ‘Continue’ will not deduct any money
   </button>
 </div>
 )}
-
+</div>
   </>
   
   )

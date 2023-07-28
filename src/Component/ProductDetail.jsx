@@ -85,7 +85,7 @@ const ProductDetail = () => {
               <h2 style={{ fontSize: '24px', fontWeight: 'bold', marginTop: '165px' }} className='product-title'>
                 {product.title}
               </h2>
-              <h4 className='product-price'>RS-{product.price}</h4>
+              <h4 className='product-price'>₹{product.price}</h4>
               {product.rating && (
                 <h4 className='rating2' style={{ fontSize: '18px', marginTop: '24px' }}>
                   {product.rating.rate}
