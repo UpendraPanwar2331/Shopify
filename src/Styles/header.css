@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.containermain {
+  position: fixed;
+  z-index: 9999;
+  background-color: white;
+}
+
+.header2 {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.header {
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  height: 100px;
+  position: relative;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 5vw;
+  justify-content: center;
+}
+
+.logo {
+  width: 15vw;
+  height: 50px;
+  cursor: pointer;
+}
+
+.input-search {
+  width: 35vw;
+  padding: 0.7vw;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.right-side {
+  display: flex;
+  gap: 5vw;
+}
+
+.profilepart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.cartpart {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.counter {
+  position: absolute;
+  background: pink;
+  width: 16px;
+  border-radius: 50%;
+  text-align: center;
+  top: -12px;
+  right: -8px;
+}
+
+.header2 {
+  margin-top: 0;
+  width: 100vw;
+  border-bottom: 2px solid lightgray;
+  border-top: 2px solid lightgray;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.items li {
+  list-style: none;
+  cursor: pointer;
+}
+
+.li {
+  padding: 0.5vw;
+  margin: 0.5vw;
+  font-weight: 700;
+}
+.li:hover {
+  color: rgb(207, 26, 165);
+}
+
+.user {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .li {
+    font-size: x-small;
+  }
+
+  .header2 {
+    height: 50px;
+    margin-top: 0;
+  }
+
+  .items {
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+  }
+  .header {
+    height: 60px;
+    align-items: center;
+  }
+  .logo {
+    width: 23vw;
+    height: 40px;
+  }
+  .input-search {
+    width: 38vw;
+    pad: 6px;
+  }
+  .profilepart {
+    position: relative;
+    font-size: 10px;
+  }
+  .counter {
+    position: absolute;
+    width: 15px;
+    font-size: 12px;
+    background: pink;
+    border-radius: 50%;
+    text-align: center;
+    top: -7px;
+    right: -9px;
+  }
+}
