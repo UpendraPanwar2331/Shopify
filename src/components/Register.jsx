@@ -7,8 +7,14 @@ import * as Yup from 'yup';
 const validationSchema = Yup.object().shape({
   name: Yup.string().required('Name is required'),
   email: Yup.string().email('Invalid email').required('Email is required'),
-  phone: Yup.string().required('Phone number is required'),
-  password: Yup.string().required('Password is required'),
+  phone: Yup.string()
+    .required('Phone number is required')
+    .matches(/^\d{10}$/, 'Phone number must have exactly 10 digits'),
+    password: Yup.string()
+    .required('Password is required')
+    .matches(/[@#$%]/, 'Password must include at least one of @, #, $, or %')
+    .min(5, 'Password must be at least 5 characters')
+    .max(10, 'Password must be at most 10 characters'),
 });
 
 function Register() {

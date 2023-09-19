@@ -8,6 +8,7 @@ import CloseIcon from '@mui/icons-material/Close';
 import Loader from './Loader';
 import '../Styles/cart.css';
 
+
 function Cart() {
 
   const navigate = useNavigate();
@@ -36,14 +37,25 @@ function Cart() {
   };
 
   const calculateTotal = () => {
+    if(quan){
     let total = 0;
     cartItem.forEach((product) => {
-      total += product.price;
+      total += product.price*quan;
     });
     return total;
+  }
   };
 
   const { cartItem } = useContext(MyAppContext);
+  const [quan,setquan] = useState(1);
+  const quantity = () => {
+     setquan(quan+1);
+  }
+  const minusquantity = () => {
+    if (quan > 1) {
+      setquan(quan - 1);
+    }
+  }
 
   return (
     <>
@@ -65,7 +77,7 @@ function Cart() {
                         <h3 className="productName">{product.title}</h3>
                         <p className="textc">₹{product.price}</p>
                         <p className="textc">All issues easy returns allowed</p>
-                        <p className="textc">Qty: 1</p>
+                        <p className="textc">Qty: <button onClick={minusquantity}>-</button> <span>{quan}</span> <button onClick={quantity}>+</button></p>
                        
                         <Button variant="text" startIcon={<CloseIcon />}  className="btn" onClick={() => removeItem(product.id)} style={{color: "rgb(159, 32, 137)"}}>
                           Remove
