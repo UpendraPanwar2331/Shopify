@@ -8,9 +8,7 @@ import CloseIcon from '@mui/icons-material/Close';
 import Loader from './Loader';
 import '../Styles/cart.css';
 
-
 function Cart() {
-
   const navigate = useNavigate();
   const { setCount, setCartItem, login } = useContext(MyAppContext);
   const [showLoader, setShowLoader] = useState(false);
@@ -22,9 +20,9 @@ function Cart() {
   const navigateToPayment = () => {
     setShowLoader(true);
     setTimeout(() => {
-      if(login){
+      if (login) {
         navigate("/payment")
-      }else{
+      } else {
         navigate('/login')
       }
     }, 600);
@@ -37,25 +35,34 @@ function Cart() {
   };
 
   const calculateTotal = () => {
-    if(quan){
     let total = 0;
     cartItem.forEach((product) => {
-      total += product.price*quan;
+      total += product.price * product.Quantity;
     });
     return total;
-  }
   };
 
   const { cartItem } = useContext(MyAppContext);
-  const [quan,setquan] = useState(1);
-  const quantity = () => {
-     setquan(quan+1);
-  }
-  const minusquantity = () => {
-    if (quan > 1) {
-      setquan(quan - 1);
-    }
-  }
+
+  const quantity = (productId) => {
+    const updatedCart = cartItem.map((product) => {
+      if (product.id === productId) {
+        return { ...product, Quantity: product.Quantity + 1 };
+      }
+      return product;
+    });
+    setCartItem(updatedCart);
+  };
+
+  const minusquantity = (productId) => {
+    const updatedCart = cartItem.map((product) => {
+      if (product.id === productId && product.Quantity > 1) {
+        return { ...product, Quantity: product.Quantity - 1 };
+      }
+      return product;
+    });
+    setCartItem(updatedCart);
+  };
 
   return (
     <>
@@ -77,9 +84,9 @@ function Cart() {
                         <h3 className="productName">{product.title}</h3>
                         <p className="textc">₹{product.price}</p>
                         <p className="textc">All issues easy returns allowed</p>
-                        <p className="textc">Qty: <button onClick={minusquantity}>-</button> <span>{quan}</span> <button onClick={quantity}>+</button></p>
-                       
-                        <Button variant="text" startIcon={<CloseIcon />}  className="btn" onClick={() => removeItem(product.id)} style={{color: "rgb(159, 32, 137)"}}>
+                        <p className="textc">Qty: <button onClick={() => minusquantity(product.id)}>-</button> <span>{product.Quantity}</span> <button onClick={() => quantity(product.id)}>+</button></p>
+
+                        <Button variant="text" startIcon={<CloseIcon />} className="btn" onClick={() => removeItem(product.id)} style={{ color: "rgb(159, 32, 137)" }}>
                           Remove
                         </Button>
                       </div>

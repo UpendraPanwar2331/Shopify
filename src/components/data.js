@@ -18,7 +18,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/r/y/k/m-y1001-klosia-original-imagmsx5fjb7ebfs.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/6/x/h/m-y1001-klosia-original-imagmsx5bznjzpgx.jpeg?q=70",
 
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 2,
@@ -38,7 +39,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/ethnic-set/9/a/a/l-jk173-jai-kurties-original-imageugcj6kzrqgm.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/ethnic-set/9/a/a/l-jk173-jai-kurties-original-imageugcj6kzrqgm.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/ethnic-set/y/o/s/l-jk173-jai-kurties-original-imageugcfvgahxpp.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 3,
@@ -58,7 +60,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/m/u/q/m-krpl00144-githaan-original-imagghjuvepyjqgy.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/f/c/h/m-krpl00144-githaan-original-imagghjux9xqjgyj.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/l/m/a/m-krpl00144-githaan-original-imagghjuzzfv2ycz.jpeg?q=70",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 4,
@@ -79,7 +82,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/l0sgyvk0/ethnic-set/m/v/p/m-cf1423black-charu-original-imagchu7jkyvvpsy.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l0sgyvk0/ethnic-set/m/8/k/m-cf1423black-charu-original-imagchu7hw7eypyj.jpeg?q=70",
 
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 5,
@@ -99,7 +103,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/f/e/0/m-vv-9180-vredevogel-original-imagh4qrwc7kzfcb.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/m/a/c/m-vv-9180-vredevogel-original-imagh4qrsaqva6df.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/h/l/s/m-vv-9180-vredevogel-original-imagh4qrywjvkq4j.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 6,
@@ -119,7 +124,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/kkbh8cw0/ethnic-set/6/e/y/m-991green-vastranikhar-original-imafzzs9wahukxv9.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/kkbh8cw0/ethnic-set/p/e/a/m-991green-vastranikhar-original-imafzzs9sev5ghmh.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/kkbh8cw0/ethnic-set/p/p/b/m-991green-vastranikhar-original-imafzzs9rhyzu9fx.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 7,
@@ -139,7 +145,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/l/f/g/s-58-loopsacreation-original-imagmgy27yc34ram.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/d/7/g/s-58-loopsacreation-original-imagmgy2vmusyxku.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/z/w/t/s-58-loopsacreation-original-imagmgy2apv7pr6r.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 8,
@@ -160,7 +167,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/u/t/z/m-9954-krisjan-original-imaghxrwfxbekuvr.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/v/h/2/m-9954-krisjan-original-imaghxrwn5gzzu5j.jpeg?q=70",
 
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 9,
@@ -180,7 +188,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/l19m93k0/ethnic-set/d/h/n/xxl-vv-9206-vredevogel-original-imagcv45htyvzzmh.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l19m93k0/ethnic-set/d/h/n/xxl-vv-9206-vredevogel-original-imagcv45htyvzzmh.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l19m93k0/ethnic-set/8/g/t/xxl-vv-9206-vredevogel-original-imagcv45fwcz7kgu.jpeg?q=70",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 10,
@@ -200,7 +209,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/ktketu80/salwar-kurta-dupatta/y/1/7/3xl-vfku1103skd-vbuyz-original-imag6vzv8wnfqf3h.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/ktketu80/salwar-kurta-dupatta/l/3/o/3xl-vfku1103skd-vbuyz-original-imag6vzvnzyhgz6u.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/ktketu80/salwar-kurta-dupatta/a/b/c/3xl-vfku1103skd-vbuyz-original-imag6vzvqz3qwnfj.jpeg?q=70",
-        ]
+        ] ,
+        "Quantity":1,          
     },
     {
         "id": 11,
@@ -220,7 +230,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/4/z/x/s-dd525-dresss-deklook-original-imagjxz4jgsggyc3.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/u/z/t/s-dd525-dresss-deklook-original-imagjxz4sttdz6p7.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/o/n/t/s-dd525-dresss-deklook-original-imagjxz4zegwhzjy.jpeg?q=70",
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -241,7 +252,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/l071d3k0/t-shirt/8/r/l/xl-3813-the-dry-state-original-imagcfh8kyzzuwm2.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l071d3k0/t-shirt/j/j/n/xl-3813-the-dry-state-original-imagcfh8vtjfhfgc.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l071d3k0/t-shirt/p/m/y/s-3813-the-dry-state-original-imagcfh8bxr5qagu.jpeg?q=70",
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -262,7 +274,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/km9ht3k0/top/k/a/t/xl-tttp004055-tokyo-talkies-original-imagf7egq4fngrrk.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/kmmcrrk0/night-dress-nighty/v/c/m/m-ttth000008-tokyo-talkies-original-imagfh86jgnzunyy.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/km9ht3k0/top/y/r/q/xl-tttp004055-tokyo-talkies-original-imagf7egh6y3a6ga.jpeg?q=70",
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -283,7 +296,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/dress/v/y/z/s-337tk10083-selvia-original-imagepfwazbt8bwu.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/dress/u/v/j/s-337tk10083-selvia-original-imagepfwcdw4s3cc.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/dress/y/w/o/s-337tk10083-selvia-original-imagepfwwkzysjtf.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -304,7 +318,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/237923747/y4l4c_512.webp",
             "https://images.meesho.com/images/products/237923747/fvtv5_512.webp",
             "https://images.meesho.com/images/products/237923747/drwmy_512.webp",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 16,
@@ -324,7 +339,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/k4d27ww0/shirt/h/h/r/l-t0721-chimpaaanzee-original-imafn9qr4genrz77.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/k4d27ww0/shirt/h/h/r/l-t0721-chimpaaanzee-original-imafn9qrqrxhzexk.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/k4d27ww0/shirt/h/h/r/l-t0721-chimpaaanzee-original-imafn9qrufh2kycr.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -345,7 +361,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/f/m/x/l-cordset-d1-mehrang-original-imagnp8t4uzdqgmc.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/s/6/x/l-cordset-d1-mehrang-original-imagnp8tx6zxqgmx.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/k/s/t/l-cordset-d1-mehrang-original-imagnp8t5hnhzyfa.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -366,7 +383,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/l/r/4/xxl-drsmrsy009-marisy-original-imagg8nay8edatbu.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/p/m/v/xxl-drsmrsy009-marisy-original-imagg8na7dwceywp.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/g/a/z/xxl-drsmrsy009-marisy-original-imagg8nab7afhj4p.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -387,7 +405,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/w/q/i/m-d603-drsdrs-deklook-original-imagp25pgvnzymav.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/e/h/z/m-d603-drsdrs-deklook-original-imagp25pescsy4fg.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/a/a/m-d603-drsdrs-deklook-original-imagp25phfzmkfx3.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
 
     {
@@ -408,7 +427,8 @@ export const ProductData = [
             "https://rukminim1.flixcart.com/image/612/612/kqy3rm80/skirt/w/q/e/l-midi-plat-otabu-original-imag4umh28zmnwt5.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/kqy3rm80/skirt/j/1/2/l-midi-plat-otabu-original-imag4umhys4fqxh9.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/612/612/kqy3rm80/skirt/j/2/6/l-midi-plat-otabu-original-imag4umhygzsykdt.jpeg?q=70"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 21,
@@ -427,7 +447,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/245807135/mavc0_512.webp",
             "https://images.meesho.com/images/products/245807135/s6iah_512.webp",
             "https://images.meesho.com/images/products/245807135/aa4dh_512.webp"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 22,
@@ -447,7 +468,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/75970557/unj9d_512.webp",
             "https://images.meesho.com/images/products/75970557/b9soe_512.webp"
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 23,
@@ -466,7 +488,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/191304361/dlecy_512.webp",
             "https://images.meesho.com/images/products/191304361/orvhh_512.webp",
          
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 24,
@@ -487,7 +510,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/182599633/ycvkm_512.webp",
             "https://images.meesho.com/images/products/182599633/ooljg_512.webp",
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 25,
@@ -508,7 +532,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/274779186/9pmko_512.webp",
             "https://images.meesho.com/images/products/274779186/eawzq_512.webp",
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 26,
@@ -528,7 +553,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/198961826/lmvd5_512.webp",
             "https://images.meesho.com/images/products/198961826/eubk4_512.webp",
            
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 27,
@@ -549,7 +575,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/295838757/axdie_512.webp",
             "https://images.meesho.com/images/products/295838757/n2h4c_512.webp",
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 28,
@@ -570,7 +597,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/218722472/lpsbr_512.webp",
         
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 29,
@@ -589,7 +617,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/243651791/t0svw_512.webp",
             "https://images.meesho.com/images/products/243651791/ejdxi_512.webp",
           
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 30,
@@ -609,7 +638,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/298199231/0wvpw_512.webp",
             "https://images.meesho.com/images/products/298199231/wkvw6_512.webp",
             "https://images.meesho.com/images/products/298199231/oud2i_512.webp"
-        ]
+        ],
+        "Quantity":1,
     },
 
     
@@ -631,7 +661,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/260046190/ejsbg_512.webp",
             "https://images.meesho.com/images/products/260046190/wbvlf_512.webp",
             "https://images.meesho.com/images/products/260046190/5wqjf_512.webp",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 32,
@@ -651,7 +682,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/85664457/ntdye_512.webp",
             "https://images.meesho.com/images/products/85664457/swk5d_512.webp",
             "https://images.meesho.com/images/products/85664457/qay4e_512.webp"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 33,
@@ -672,7 +704,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/64412657/7tohe_512.webp",
             "https://images.meesho.com/images/products/64412657/clmcp_512.webp",
             
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 34,
@@ -692,7 +725,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/230131292/7ruha_512.webp",
             "https://images.meesho.com/images/products/230131292/kcnd5_512.webp",
           
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 35,
@@ -712,7 +746,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/199165098/3goyy_512.webp",
             "https://images.meesho.com/images/products/199165098/7acf5_512.webp",
           
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 36,
@@ -733,7 +768,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/105036508/xjpth_512.webp",
             "https://images.meesho.com/images/products/105036508/k9gun_512.webp",
            
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 37,
@@ -754,7 +790,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/82548779/sw8lr_512.webp",
             "https://images.meesho.com/images/products/82548779/ug0a3_512.webp",
         
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 38,
@@ -774,7 +811,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/38/2.jpg",
             "https://i.dummyjson.com/data/products/38/3.jpg",
             "https://i.dummyjson.com/data/products/38/4.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 39,
@@ -794,7 +832,8 @@ export const ProductData = [
             "https://images.meesho.com/images/products/303678454/u9enc_512.webp",
             "https://images.meesho.com/images/products/303678454/hbkll_512.webp",
             "https://images.meesho.com/images/products/303678454/xt6as_512.webp",
-        ]
+        ],
+        "Quantity":1,
     },
    
     {
@@ -816,7 +855,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/41/3.jpg",
             "https://i.dummyjson.com/data/products/41/4.jpg",
             "https://i.dummyjson.com/data/products/41/thumbnail.webp",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 42,
@@ -837,7 +877,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/42/3.png",
             "https://i.dummyjson.com/data/products/42/4.jpg",
             "https://i.dummyjson.com/data/products/42/thumbnail.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 43,
@@ -858,7 +899,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/43/3.jpg",
             "https://i.dummyjson.com/data/products/43/4.jpg",
             "https://i.dummyjson.com/data/products/43/thumbnail.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 44,
@@ -879,7 +921,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/44/3.jpg",
             "https://i.dummyjson.com/data/products/44/4.jpg",
             "https://i.dummyjson.com/data/products/44/thumbnail.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 45,
@@ -900,7 +943,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/45/3.jpg",
             "https://i.dummyjson.com/data/products/45/4.jpg",
             "https://i.dummyjson.com/data/products/45/thumbnail.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 46,
@@ -921,7 +965,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/46/3.jpg",
             "https://i.dummyjson.com/data/products/46/4.jpg",
             "https://i.dummyjson.com/data/products/46/thumbnail.jpg",
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 47,
@@ -941,7 +986,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/47/2.jpg",
             "https://i.dummyjson.com/data/products/47/3.jpg",
             "https://i.dummyjson.com/data/products/47/thumbnail.jpeg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 48,
@@ -962,7 +1008,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/48/3.jpg",
             "https://i.dummyjson.com/data/products/48/4.jpg",
             "https://i.dummyjson.com/data/products/48/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 49,
@@ -982,7 +1029,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/49/2.jpg",
             "https://i.dummyjson.com/data/products/49/3.webp",
             "https://i.dummyjson.com/data/products/49/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 50,
@@ -1001,7 +1049,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/50/1.jpeg",
             "https://i.dummyjson.com/data/products/50/2.jpg",
             "https://i.dummyjson.com/data/products/50/3.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 51,
@@ -1021,7 +1070,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/51/2.jpg",
             "https://i.dummyjson.com/data/products/51/3.jpg",
             "https://i.dummyjson.com/data/products/51/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 52,
@@ -1042,7 +1092,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/52/3.jpg",
             "https://i.dummyjson.com/data/products/52/4.jpg",
             "https://i.dummyjson.com/data/products/52/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 53,
@@ -1063,7 +1114,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/53/3.jpg",
             "https://i.dummyjson.com/data/products/53/4.jpg",
             "https://i.dummyjson.com/data/products/53/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 54,
@@ -1084,7 +1136,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/54/3.jpg",
             "https://i.dummyjson.com/data/products/54/4.jpg",
             "https://i.dummyjson.com/data/products/54/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 55,
@@ -1105,7 +1158,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/55/3.jpg",
             "https://i.dummyjson.com/data/products/55/4.jpg",
             "https://i.dummyjson.com/data/products/55/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 56,
@@ -1127,7 +1181,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/56/4.jpg",
             "https://i.dummyjson.com/data/products/56/5.jpg",
             "https://i.dummyjson.com/data/products/56/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 57,
@@ -1148,7 +1203,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/57/3.jpg",
             "https://i.dummyjson.com/data/products/57/4.jpg",
             "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 58,
@@ -1169,7 +1225,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/58/3.jpg",
             "https://i.dummyjson.com/data/products/58/4.jpg",
             "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 59,
@@ -1190,7 +1247,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/59/3.jpg",
             "https://i.dummyjson.com/data/products/59/4.jpg",
             "https://i.dummyjson.com/data/products/59/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 60,
@@ -1210,7 +1268,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/60/2.jpg",
             "https://i.dummyjson.com/data/products/60/3.jpg",
             "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 61,
@@ -1229,7 +1288,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/61/1.jpg",
             "https://i.dummyjson.com/data/products/61/2.png",
             "https://i.dummyjson.com/data/products/61/3.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 62,
@@ -1247,7 +1307,8 @@ export const ProductData = [
         "images": [
             "https://i.dummyjson.com/data/products/62/1.jpg",
             "https://i.dummyjson.com/data/products/62/2.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 63,
@@ -1267,7 +1328,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/63/2.jpg",
             "https://i.dummyjson.com/data/products/63/3.png",
             "https://i.dummyjson.com/data/products/63/4.jpeg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 64,
@@ -1287,7 +1349,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/64/2.webp",
             "https://i.dummyjson.com/data/products/64/3.jpg",
             "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 65,
@@ -1308,7 +1371,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/65/3.jpg",
             "https://i.dummyjson.com/data/products/65/4.webp",
             "https://i.dummyjson.com/data/products/65/thumbnail.webp"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 66,
@@ -1329,7 +1393,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/66/3.jpg",
             "https://i.dummyjson.com/data/products/66/4.JPG",
             "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 67,
@@ -1350,7 +1415,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/67/3.jpg",
             "https://i.dummyjson.com/data/products/67/4.jpg",
             "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 68,
@@ -1368,7 +1434,8 @@ export const ProductData = [
         "images": [
             "https://i.dummyjson.com/data/products/68/1.jpg",
             "https://i.dummyjson.com/data/products/68/2.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 69,
@@ -1389,7 +1456,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/69/3.webp",
             "https://i.dummyjson.com/data/products/69/4.jpg",
             "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 70,
@@ -1408,7 +1476,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/70/1.jpg",
             "https://i.dummyjson.com/data/products/70/2.jpg",
             "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 71,
@@ -1428,7 +1497,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/71/2.jpg",
             "https://i.dummyjson.com/data/products/71/3.webp",
             "https://i.dummyjson.com/data/products/71/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 72,
@@ -1449,7 +1519,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/72/3.webp",
             "https://i.dummyjson.com/data/products/72/4.jpg",
             "https://i.dummyjson.com/data/products/72/thumbnail.webp"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 73,
@@ -1469,7 +1540,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/73/2.webp",
             "https://i.dummyjson.com/data/products/73/3.jpg",
             "https://i.dummyjson.com/data/products/73/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 74,
@@ -1490,7 +1562,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/74/3.jpg",
             "https://i.dummyjson.com/data/products/74/4.jpg",
             "https://i.dummyjson.com/data/products/74/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 75,
@@ -1510,7 +1583,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/75/2.jpg",
             "https://i.dummyjson.com/data/products/75/3.jpg",
             "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 76,
@@ -1529,7 +1603,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/76/1.jpg",
             "https://i.dummyjson.com/data/products/76/2.jpg",
             "https://i.dummyjson.com/data/products/76/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 77,
@@ -1549,7 +1624,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/77/2.jpg",
             "https://i.dummyjson.com/data/products/77/3.jpg",
             "https://i.dummyjson.com/data/products/77/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 78,
@@ -1566,7 +1642,8 @@ export const ProductData = [
         "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
         "images": [
             "https://i.dummyjson.com/data/products/78/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 79,
@@ -1583,7 +1660,8 @@ export const ProductData = [
         "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
         "images": [
             "https://i.dummyjson.com/data/products/79/1.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 80,
@@ -1604,7 +1682,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/80/3.png",
             "https://i.dummyjson.com/data/products/80/4.jpg",
             "https://i.dummyjson.com/data/products/80/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 81,
@@ -1625,7 +1704,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/81/3.jpg",
             "https://i.dummyjson.com/data/products/81/4.webp",
             "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 82,
@@ -1646,7 +1726,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/82/3.jpg",
             "https://i.dummyjson.com/data/products/82/4.jpg",
             "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 83,
@@ -1667,7 +1748,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/83/3.jpg",
             "https://i.dummyjson.com/data/products/83/4.jpg",
             "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 84,
@@ -1686,7 +1768,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/84/1.jpg",
             "https://i.dummyjson.com/data/products/84/2.jpg",
             "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 85,
@@ -1705,7 +1788,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/85/1.jpg",
             "https://i.dummyjson.com/data/products/85/2.jpg",
             "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 86,
@@ -1726,7 +1810,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/86/3.jpg",
             "https://i.dummyjson.com/data/products/86/4.jpg",
             "https://i.dummyjson.com/data/products/86/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 87,
@@ -1747,7 +1832,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/87/3.jpg",
             "https://i.dummyjson.com/data/products/87/4.jpg",
             "https://i.dummyjson.com/data/products/87/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 88,
@@ -1768,7 +1854,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/88/3.jpg",
             "https://i.dummyjson.com/data/products/88/4.webp",
             "https://i.dummyjson.com/data/products/88/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 89,
@@ -1789,7 +1876,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/89/3.jpg",
             "https://i.dummyjson.com/data/products/89/4.jpg",
             "https://i.dummyjson.com/data/products/89/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 90,
@@ -1810,7 +1898,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/90/3.jpg",
             "https://i.dummyjson.com/data/products/90/4.jpg",
             "https://i.dummyjson.com/data/products/90/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 91,
@@ -1831,7 +1920,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/91/3.jpg",
             "https://i.dummyjson.com/data/products/91/4.jpg",
             "https://i.dummyjson.com/data/products/91/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 92,
@@ -1851,7 +1941,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/92/2.jpg",
             "https://i.dummyjson.com/data/products/92/3.jpg",
             "https://i.dummyjson.com/data/products/92/4.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 93,
@@ -1872,7 +1963,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/93/3.jpg",
             "https://i.dummyjson.com/data/products/93/4.jpg",
             "https://i.dummyjson.com/data/products/93/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 94,
@@ -1892,7 +1984,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/94/2.jpg",
             "https://i.dummyjson.com/data/products/94/3.jpg",
             "https://i.dummyjson.com/data/products/94/thumbnail.webp"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 95,
@@ -1913,7 +2006,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/95/3.jpg",
             "https://i.dummyjson.com/data/products/95/4.jpg",
             "https://i.dummyjson.com/data/products/95/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 96,
@@ -1934,7 +2028,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/96/3.jpg",
             "https://i.dummyjson.com/data/products/96/4.jpg",
             "https://i.dummyjson.com/data/products/96/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 97,
@@ -1955,7 +2050,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/97/3.jpg",
             "https://i.dummyjson.com/data/products/97/4.webp",
             "https://i.dummyjson.com/data/products/97/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 98,
@@ -1976,7 +2072,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/98/3.jpg",
             "https://i.dummyjson.com/data/products/98/4.jpg",
             "https://i.dummyjson.com/data/products/98/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 99,
@@ -1997,7 +2094,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/99/3.jpg",
             "https://i.dummyjson.com/data/products/99/4.jpg",
             "https://i.dummyjson.com/data/products/99/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     },
     {
         "id": 100,
@@ -2017,7 +2115,8 @@ export const ProductData = [
             "https://i.dummyjson.com/data/products/100/2.jpg",
             "https://i.dummyjson.com/data/products/100/3.jpg",
             "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
-        ]
+        ],
+        "Quantity":1,
     }
 
 ];
